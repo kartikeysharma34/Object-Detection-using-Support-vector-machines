@@ -7,5 +7,5 @@ The code was majorly designed for detection of faces and airplanes in the provid
 15 images of both faces and airplanes were used to train the svm model
 
 # Code
-The code is the most trivial code for training of svm for object recognition and detection
+The code is the most basic code for training of svm for object recognition and detection
 
